@@ -37,7 +37,7 @@
 
 - **Web** — [priornetwork.com](https://priornetwork.com)
 - **Android** — [Download on Google Play](https://priornetwork.com/app) · React Native / Expo
-- **Browser Extension** — Prior Web Extension
+- **Browser Extension** — [Prior for Chrome](https://chromewebstore.google.com/detail/prior/cggbhjkpejecejkhcdbkiimkebioomam)
 - **CLI** — [Prior CLI](https://priornetwork.com/utilities)
 - **Discord Bot** — Community integration and network notifications
 
